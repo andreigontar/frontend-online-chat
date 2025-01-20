@@ -73,3 +73,7 @@
 Если сообщения не помещаются в экран - идёт авто-прокрутка к последнему сообщению.
 
 ![](https://downloader.disk.yandex.ru/preview/1498df42dffb69639b6bde1b5de8f7f70d124d1372ca1679702fb6c3de13262c/678ee193/UQBu_hlbNV8nloErPBLabffDRIufRZjSg_J5KIWnruMlhDgtZR37zSSptVAw-UXbrrlwonofrT9votTdVReBuQ%3D%3D?uid=0&filename=5.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+
+Уведомление о состоянии подключения к сокету
+
+![](https://downloader.disk.yandex.ru/preview/2f89a5e4397d229b8410a4c63ab78392818d71de38a4ee1f992c7973dcd68120/678eea48/rIwk1MZDk2PCDJdOF7UXvYwZqljkb-Z1rdAexJeEMzrnbiZS2R9jrjHg_pKwyq3hvLLoMCOE3AC6m7ijlP5jIg%3D%3D?uid=0&filename=6.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2133x1021)
